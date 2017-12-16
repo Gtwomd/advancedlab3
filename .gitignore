@@ -1,0 +1,4 @@
+env
+*.pyc
+rutherford-scattering.pdf
+-checkpoint.ipynb
